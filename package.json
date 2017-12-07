@@ -17,9 +17,6 @@
   "author": "Lea Verou",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "optionalDependencies": {
-    /* "clipboard": "^1.7.1" */
-  },
   "devDependencies": {
     "chai": "^2.3.0",
     "gulp": "^3.8.6",
